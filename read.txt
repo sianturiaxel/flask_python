@@ -1,0 +1,2 @@
+Sitem ini digunakan untuk menciptakan aplikasi web yang dapat digunakan sebagai monitoring dan menjalankan perintah pada raspberry.
+Aplikasi ini dikombinasikan dengan Embedded System yang dapat mempermudah user dalam menggunakannya
